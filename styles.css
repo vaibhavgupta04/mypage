@@ -180,3 +180,12 @@ nav a:hover {
   margin-left: 50px;
   margin-right: 50px;
 }
+
+.sidebar {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 134%;
+  width: 200px;
+  background-color: #ff7979;
+}
