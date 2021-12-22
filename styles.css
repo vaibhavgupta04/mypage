@@ -1,0 +1,16 @@
+body {
+  background-color: #b1d0e0;
+}
+h1 {
+  margin: 0%;
+  font-family: "Fuzzy Bubbles", cursive;
+}
+.top {
+  background-color: #e8ffff;
+}
+.mid {
+  background-color: yellow;
+}
+.bottom {
+  background-color: pink;
+}
